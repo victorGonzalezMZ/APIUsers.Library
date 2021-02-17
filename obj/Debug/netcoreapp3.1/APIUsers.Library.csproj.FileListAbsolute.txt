@@ -1,0 +1,27 @@
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/bin/Debug/netcoreapp3.1/APIUsers.Library.deps.json
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/bin/Debug/netcoreapp3.1/APIUsers.Library.dll
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.csprojAssemblyReference.cache
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.AssemblyInfoInputs.cache
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.AssemblyInfo.cs
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/bin/Debug/netcoreapp3.1/APIUsers.Library.pdb
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.dll
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.pdb
+C:/Users/vakem/source/repos/API-MTWDM101/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.csproj.CoreCompileInputs.cache
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/bin/Debug/netcoreapp3.1/APIUsers.Library.deps.json
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/bin/Debug/netcoreapp3.1/APIUsers.Library.dll
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/bin/Debug/netcoreapp3.1/APIUsers.Library.pdb
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.csprojAssemblyReference.cache
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.AssemblyInfoInputs.cache
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.AssemblyInfo.cs
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.csproj.CoreCompileInputs.cache
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.dll
+/Users/emmanuelnoriegavaca/API-CORE-GuanaMarket-Store/APIUsers.Library/obj/Debug/netcoreapp3.1/APIUsers.Library.pdb
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\bin\Debug\netcoreapp3.1\APIUsers.Library.deps.json
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\bin\Debug\netcoreapp3.1\APIUsers.Library.dll
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\bin\Debug\netcoreapp3.1\APIUsers.Library.pdb
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.dll
+C:\Users\Victor\Desktop\Guanamarket\API-CORE-GuanaMarket-Store copy\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.pdb
